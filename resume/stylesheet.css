@@ -1,0 +1,36 @@
+
+body {
+  font-family: sans-serif, serif;
+  font-size: 1em;
+  line-height: 175%;
+  margin: 0 15% 0; background: #DBECFD }
+
+a:link {
+	  color: #188afc;
+}
+a:visited {
+	color: #fc188a;
+}
+ a:hover {
+	color: #188afc;
+	background-color: #fff;
+}
+a:active {
+	color: #188afc;
+	background-color: #fff;
+}
+h1 {
+  font-family:  2.0em "Open Sans",sans-serif, serif;
+  text-shadow: .1em .1em .2em gray;  color: #5656a4; text-align: center;
+  font-weight: normal;  text-transform: uppercase;  border-bottom: 1px solid #000000; margin-top: 30px;}
+}
+h2 {font-size: 1em;
+letter-spacing: .5em;
+text-align: left;
+color: #27274A;
+}
+
+ p {
+  text-align: left;
+  font-style: normal;
+}
